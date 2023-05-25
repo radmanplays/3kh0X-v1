@@ -2212,7 +2212,7 @@
 		"root": "xx142-b2exe",
 		"file": "index.html",
 		"img": "splash.png"
-	},	
+	},
         {
 		"name": "cookieclicker2052",
 		"root": "cookie-clicker-beta",
@@ -2273,5 +2273,4 @@
 		"file": "index.html",
 		"img": "img/perfectCookie.png"
 	},
-	
 ]
