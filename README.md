@@ -1,10 +1,10 @@
 <p align="center">
 <kbd>
-<img style="border-radius:50%" height="150px" src="http://web.archive.org/web/20230416012103if_/https://cdn.jsdelivr.net/gh/Rahib777-7/3kh0TEMP@main/images/logo.png">
+<img style="border-radius:50%" height="150px" src="https://i.ibb.co/HX3WmD7/21dad9051ccf740de752870208391b01-low-poly-desktop-wallpapers.jpg">
 </kbd>
 </p>
-<h1 align="center">3kh0</h1>
-<p align="center">The better unblocked games website.</p>
+<h1 align="center">3kh0X</h1>
+<p align="center">3kh0 but better</p>
 
 
 This is the GitHub repo which is used to host the website. If you want to use the games on here on your website, please message me on discord at `3kh0_#6969` and we can talk! If you're looking for the link, click [here](https://3kh0.net)
