@@ -66,7 +66,7 @@ See [`contributing.md`](https://github.com/radmanplays/3kh0X-v1/blob/main/CONTRI
 
 Please adhere to this project's [Code of Conduct](https://github.com/radmanplays/3kh0X-v1/blob/main/.github/CODE_OF_CONDUCT.md).
 
-If you would like to help add games, you can do that here: [3kh0/3kh0-Assets](https://github.com/radmanplays/3kh0-X-Assets), this repo only has the UI and other things
+If you would like to help add games, you can do that here: [radmanplays/3kh0-x-Assets](https://github.com/radmanplays/3kh0-X-Assets), this repo only has the UI and other things
 
 ## Run Locally
 
