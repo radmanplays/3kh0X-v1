@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Minecraft Tower Defence",
+		"root": "MinecraftTowerDefence",
+		"file": "index.html",
+		"img": "MinecraftTowerDefence.jpg"	
+	},
+	{
 		"name": "run4bootleg",
 		"root": "run4bootleg",
 		"file": "index.html",
