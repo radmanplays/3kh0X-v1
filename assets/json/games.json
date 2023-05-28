@@ -120,6 +120,12 @@
 		"img": "splash.png"
 	},
 	{
+		"name": "DOOM",
+		"root": "DOOM",
+		"file": "index.html",
+		"img": "images.jpg"
+	},
+	{
 		"name": "Achievement Unlocked",
 		"root": "achievementunlocked",
 		"file": "index.html",
