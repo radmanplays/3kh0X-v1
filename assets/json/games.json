@@ -120,6 +120,12 @@
 		"img": "achievementunlocked.png"
 	},
 	{
+		"name": "Animation VS Animator",
+		"root": "Animatorvsanimation",
+		"file": "index.html",
+		"img": "image.jpg"	
+	},
+	{
 		"name": "Adrenaline Challenge",
 		"root": "adrenalinechallenge",
 		"file": "index.html",
