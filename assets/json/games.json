@@ -36,6 +36,12 @@
 		"img": "images/logo.png"
 	},
 	{
+		"name": "Scratch Flight Simulator",
+		"root": "ScratchFlightSimulator",
+		"file": "index.html",
+		"img": "Scratch Flight Simulator.png"	
+	},
+	{
 		"name": "1",
 		"root": "1",
 		"file": "index.html",
