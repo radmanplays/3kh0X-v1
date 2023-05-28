@@ -6,6 +6,12 @@
 		"img": "MinecraftTowerDefence.jpg"	
 	},
 	{
+		"name": "Minecraft Tower Defence 2",
+		"root": "MinecraftTowerDefence2",
+		"file": "index.html",
+		"img": "MinecraftTowerDefence2.png"	
+	},
+	{
 		"name": "run4bootleg",
 		"root": "run4bootleg",
 		"file": "index.html",
