@@ -24,6 +24,12 @@
 		"img": "loading3860.png"
 	},
 	{
+		"name": "Sonic Origins Pocket Edition",
+		"root": "SonicOriginsPocketEdition",
+		"file": "index.html",
+		"img": "Sonicorig.png"	
+	},
+	{
 		"name": "idledices",
 		"root": "idledices",
 		"file": "index.html",
