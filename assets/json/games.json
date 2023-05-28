@@ -42,6 +42,12 @@
 		"img": "Scratch Flight Simulator.png"	
 	},
 	{
+		"name": "Scratch Flight Simulator (Stretched)",
+		"root": "ScratchFlightSimulator",
+		"file": "streched-index.html",
+		"img": "Scratch Flight Simulator.png"	
+	},
+	{
 		"name": "1",
 		"root": "1",
 		"file": "index.html",
