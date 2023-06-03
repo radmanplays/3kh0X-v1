@@ -150,6 +150,12 @@
 		"img": "splash.png"
 	},
 	{
+		"name": "Minecraft plus!",
+		"root": "minecraft-plus",
+		"file": "index.html",
+		"img": "Minecraft plus!.jpg"	
+	},
+	{
 		"name": "Age of Conflict",
 		"root": "ages-of-conflict",
 		"file": "index.html",
